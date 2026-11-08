@@ -58,7 +58,7 @@ The dataset contains electricity generation information for multiple energy sour
 - Created bar charts, line charts, donut charts, and heatmaps.
 
 ### 3. Power BI Dashboard
-
+![Power BI Dashboard](BI.png)
 Developed an interactive dashboard featuring:
 
 - Electricity Generation KPIs
