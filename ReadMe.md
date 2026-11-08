@@ -86,18 +86,13 @@ Developed an interactive dashboard featuring:
 
 ## Repository Structure
 
-```text
-germany-energy-project/
+germany-electricity-generation-analysis/
 │
 ├── germany-electricity-generation.csv
 ├── germany-electricity-generation-clean.csv
-├── germany-energy-analysis.ipynb
-├── germany-energy-dashboard.pbix
-├── screenshots/
-│   └── dashboard-preview.png
-│
-└── README.md
-```
+├── germany-energy-analysis-professional.ipynb
+├── german-dashboard.pbix
+└── ReadMe.md
 
 ## Key Insights
 
